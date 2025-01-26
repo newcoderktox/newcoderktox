@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @newcoderktox
 - 👀 I’m interested in video games, programming, reading, anime, biology and technology.
-- 🌱 I’m currently learning C-C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Java and know C a bit
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm scared of climbing to a ledder and I like Makima
 
