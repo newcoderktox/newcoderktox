@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games, programming, reading, anime, biology and technology.
 - 🌱 I’m currently learning Java and know C a bit
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm scared of climbing to a ledder and I like Makima
+- ⚡ Fun fact: I'm scared of ledders and I like Makima
 
 <!---
 newcoderktox/newcoderktox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
