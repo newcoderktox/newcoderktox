@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @newcoderktox
 - 👀 I’m interested in cs2, minecraft, programming, reading, anime, biology and technology.
-- 🌱 I’m currently learning Java and know C a bit
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm scared of ledders and I like Makima
 
